@@ -1,0 +1,14 @@
+[
+    {
+        "name": "idle",
+        "length": 1
+    },
+    {
+        "name": "left",
+        "length": 1
+    },
+    {
+        "name": "right",
+        "length": 1
+    }
+]
